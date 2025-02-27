@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import pandas as pd
 import seaborn as sb
 import matplotlib.pyplot as plt
@@ -305,10 +299,4 @@ if(choice.lower()=="y"):
 else:
     print("Exiting..")
     t.sleep(1)
-
-
-# In[ ]:
-
-
-
 
